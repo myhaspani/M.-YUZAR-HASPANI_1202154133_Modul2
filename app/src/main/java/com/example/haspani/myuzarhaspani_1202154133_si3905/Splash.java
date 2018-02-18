@@ -12,7 +12,7 @@ public class Splash extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        Toast.makeText(Splash.this,"M. YUZAR HASPANI - 1202150273",Toast.LENGTH_LONG).show(); //menampilkan isi pesan toast
+        Toast.makeText(Splash.this,"M. YUZAR HASPANI - 1202154133",Toast.LENGTH_LONG).show(); //menampilkan isi pesan toast
         final Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
             @Override
