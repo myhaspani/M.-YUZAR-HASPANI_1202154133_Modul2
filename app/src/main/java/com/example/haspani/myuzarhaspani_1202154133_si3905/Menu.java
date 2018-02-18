@@ -34,10 +34,10 @@ public class Menu extends AppCompatActivity {
 
     private void dummiesData(){
         for (int i = 0;i < 3; i++){
-            foods.add("Sate Cumi"); //untuk menampilkan menu makanan
-            foods.add("Sate Kulit");
-            foods.add("Sate Paha");
-            foods.add("Ramyeon");
+            foods.add("Sate"); //untuk menampilkan menu makanan
+            foods.add("Burger");
+            foods.add("Mie Goreng");
+            foods.add("Mie Goreng Telor");
             foods.add("Wings");
 
             priceses.add(25000); //untuk menampilkan harga makanan

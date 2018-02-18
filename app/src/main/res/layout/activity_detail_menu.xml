@@ -14,7 +14,7 @@
         android:textStyle="bold"
         android:textSize=""
         android:layout_gravity="center_horizontal"
-        android:text="Nasi Wagyu"/>
+        android:text="Burger"/>
     <ImageView
         android:id="@+id/iv_detailPhoto"
         android:layout_width="200sp"
